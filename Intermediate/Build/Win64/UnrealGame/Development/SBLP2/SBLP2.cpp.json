@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\sixtrees server\\sblp2\\sblp2\\intermediate\\source\\sblp2.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\sixtrees server\\sblp2\\sblp2\\intermediate\\build\\win64\\sblp2\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\sixtrees server\\sblp2\\sblp2\\intermediate\\build\\win64\\unrealgame\\development\\sblp2\\definitions.sblp2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
